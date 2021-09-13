@@ -22,8 +22,6 @@ kill:
 # Запуск оболочки
 shell:
 	python ./manage.py shell
-shell+:
-	./manage.py shell_plus
 
 # Импорт базы из файла data.sql
 import:
